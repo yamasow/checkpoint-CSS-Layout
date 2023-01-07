@@ -1,0 +1,135 @@
+li {
+    display: inline; 
+    margin-right: 6px;
+}
+body{
+    font-family: roboto;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 85%;
+}
+.center{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+.color-green{
+    color: #13b9a2;
+}
+.flex-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 85%;
+}
+.margin{
+    margin-right: 5px;
+    margin-left: 5px;
+
+}
+.fontsize{
+    font-size: large;
+}
+.background-green{
+background-color: #00ccb1;
+}
+.text-white{
+    color: white;
+}
+.border-radius{
+    border-radius: 8px;
+}
+.height-80{
+    height: 350px;
+}
+.background-blue{
+    background-color: #3d83df ;
+}
+.width-80{
+    width: 300px;
+}
+.background-dark{
+    background-color: black ;
+}
+.imgtext{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    width: 110px;
+    color: gray;
+    margin-right: 30px;
+    margin-left: 30px;
+    }
+    .alignement{
+        color: #00ccb1;
+        font-size: 25px;
+    }
+    .mise_en_forme{
+        display: flex;
+        margin-left:  20px;
+       
+    }
+    .saut_de_ligne{
+        display: flex; 
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 70%;
+    }
+    .section2{
+        height: 600px;
+        background-color: #daf7f6;
+    }
+    .couleur{
+        color: #04b49d;
+    }
+    .ton{
+        color: gray;
+    }
+    .section2{
+        display: flex;
+        justify-content: space-between;
+    }
+    .grey{
+        color: #7f8a99;
+    }
+    .bgwhite{
+        background-color: white;
+        width: 40%;
+        height: 40%;
+    }
+    .bordure{
+        border: solid;
+        border-color: crimson;
+        width: 40%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 5px;
+        margin-right: 10%;
+    }
+    
+    .section3{
+        text-align: center;
+    }
+    .agencement{
+        display: grid;
+        max-width: 80%;
+        border: solid;
+        margin: auto;
+        grid-template-columns: 30% 30% 30% ;
+        
+    }
+    .boite{
+margin-top:5px;
+margin-bottom: 5px;
+margin-left: 5px;
+margin-right: 5px;
+    }
+        
+    
+
